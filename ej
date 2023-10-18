@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Calculadora" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+<body>
+    <h1>Calculadora</h1>
+    <p>Introduce el primer numero:  <input type="number" id="num1"></p>
+    <p>Introduce el segundo numero:  <input type="number"id="num2"></p>
+    <p><button id="multiplicar"> Multiplicar</button></p>
+    <p>El resultado es:    <span id="resultado"></span></p>
+    <script src="https://code.jquery-3.6.0.min.js"></script>
+<script src="calculadora.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-..."/>
+<button>
+    <i class="fas fa-heart" style="font: size 24px;large;"></i>
+    Me gusta
+  </button>
+  
+</body>
+</html>
